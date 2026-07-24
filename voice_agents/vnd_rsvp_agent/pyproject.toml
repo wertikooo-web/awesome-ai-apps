@@ -1,0 +1,12 @@
+[project]
+name = "vnd-rsvp-agent"
+version = "0.1.0"
+description = "Outbound multilingual RSVP voice agent for VND/WineMD using LiveKit Telephony and OpenAI Realtime."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "livekit-agents[openai]~=1.5",
+    "livekit-api>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "loguru>=0.7.3",
+]
