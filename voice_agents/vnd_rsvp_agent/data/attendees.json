@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A1",
+    "name": "Alexei Demo",
+    "phone": "+37300000000",
+    "language": "ru",
+    "status": "pending",
+    "guest_limit": 1,
+    "guests": 0,
+    "attempts": 0,
+    "notes": "",
+    "callback_at": null,
+    "questions": [],
+    "call_history": []
+  },
+  {
+    "id": "A2",
+    "name": "Ion Demo",
+    "phone": "+37300000001",
+    "language": "ro",
+    "status": "pending",
+    "guest_limit": 1,
+    "guests": 0,
+    "attempts": 0,
+    "notes": "",
+    "callback_at": null,
+    "questions": [],
+    "call_history": []
+  }
+]
