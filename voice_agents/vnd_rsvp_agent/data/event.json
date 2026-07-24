@@ -1,0 +1,22 @@
+{
+  "id": "VND-DEMO-001",
+  "name": "VND Partner Evening",
+  "date": "2026-09-18",
+  "start_time": "18:00",
+  "end_time": "21:30",
+  "timezone": "Europe/Chisinau",
+  "venue": "Demo venue",
+  "address": "Chișinău, address to be confirmed",
+  "host": "VND",
+  "contact_phone": "+37300000000",
+  "guest_policy": "Each invited attendee may bring one additional guest unless their record says otherwise.",
+  "parking": "Parking information is not confirmed yet.",
+  "dress_code": "Business casual",
+  "languages": ["ru", "ro"],
+  "faq": {
+    "duration": "The event is scheduled to finish at 21:30.",
+    "food": "Light food and drinks are planned.",
+    "transport": "Organized transport is not confirmed.",
+    "accessibility": "Ask the organizer to confirm accessibility arrangements."
+  }
+}
